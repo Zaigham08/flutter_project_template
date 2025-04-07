@@ -3,7 +3,7 @@ import '../res/constants.dart';
 
 final ThemeData appTheme = ThemeData(
   scaffoldBackgroundColor: bgColor,
-  fontFamily: 'Raleway',
+  fontFamily: 'Inter',
   textTheme: const TextTheme(
     bodyLarge: TextStyle(color: txtColor),
     bodyMedium: TextStyle(color: txtColor),
